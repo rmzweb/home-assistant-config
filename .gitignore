@@ -11,6 +11,10 @@ __pycache__
 .cloud
 .storage
 .google.token
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80fe117fb160a67cf171b5dccacfb2bfaa704744
 
 # Specific file ignores
 .config_entries.json
