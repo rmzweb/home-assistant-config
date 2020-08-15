@@ -46,6 +46,5 @@ notebooks
 
 # Specific keeps
 !.gitkeep
-!*.yaml
 !.gitignore
 !*.md
